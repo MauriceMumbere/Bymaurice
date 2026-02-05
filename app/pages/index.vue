@@ -1,3 +1,8 @@
 <template>
-  <h1 class="text-red-500">Bymaurice</h1>
+  <div>
+    <Hero />
+    <Projects />
+    <About />
+    <CallToAction />
+  </div>
 </template>
