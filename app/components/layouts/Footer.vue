@@ -6,9 +6,12 @@ const navLinks = [
 ];
 
 const socialLinks = [
-  { name: "Linkedin", to: "#" },
-  { name: "Github", to: "#" },
-  { name: "Email", to: "mailto:votre@email.com" },
+  {
+    name: "Linkedin",
+    to: "https://www.linkedin.com/in/maurice-mumbere-0b5148271/",
+  },
+  { name: "Github", to: "https://github.com/MauriceMumbere" },
+  { name: "Email", to: "mailto:mauricemumbere@gmail.com" },
 ];
 </script>
 
@@ -56,6 +59,7 @@ const socialLinks = [
               <li v-for="social in socialLinks" :key="social.name">
                 <NuxtLink
                   :to="social.to"
+                  target="_blank"
                   class="text-white/70 hover:text-green-400 transition-colors flex items-center gap-2"
                 >
                   {{ social.name }}

@@ -16,7 +16,7 @@
       </p>
 
       <NuxtLink
-        to="https://wa.me/243895703947"
+        to="https://wa.me/243817769755"
         target="_blank"
         rel="noopener noreferrer"
         class="inline-flex justify-center items-center gap-3 bg-black text-white px-10 py-5 rounded-full text-xl md:text-2xl shadow-2xl transition-all hover:bg-gray-800 hover:scale-105 active:scale-95 group"

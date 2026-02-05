@@ -39,7 +39,7 @@
         class="mt-10 flex flex-col sm:flex-row justify-center items-center gap-4"
       >
         <NuxtLink
-          to="https://wa.me/33612345678"
+          to="https://wa.me/243817769755"
           target="_blank"
           class="w-full sm:w-auto flex items-center justify-center gap-2 bg-black text-white px-8 py-4 rounded-full font-bold shadow-xl transition-all hover:bg-gray-800 hover:scale-105 active:scale-95"
         >

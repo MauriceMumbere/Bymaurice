@@ -4,25 +4,25 @@ const projects = [
     title: "Space tourism",
     category: "Challenge frontend mentor • Nuxt",
     image: "/images/space.jpg",
-    link: "#",
+    link: "https://space-tourism-m.netlify.app",
   },
   {
     title: "Loopstudios",
     category: "Challenge frontend mentor • Nuxt",
     image: "/images/loopstudios.jpg",
-    link: "#",
+    link: "https://loopstudios-landing-page-m.netlify.app",
   },
   {
     title: "Insure landing page",
     category: "Challenge frontend mentor • Nuxt",
     image: "/images/insure.jpg",
-    link: "#",
+    link: "https://insure-landing-page-m.netlify.app",
   },
   {
     title: "Vous êtes ici",
     category: "Portfolio",
     image: "/images/portfolio.png",
-    link: "#",
+    link: "/",
   },
 ];
 </script>
