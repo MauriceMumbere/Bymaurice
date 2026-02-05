@@ -32,7 +32,7 @@
         class="mt-8 text-lg md:text-xl text-gray-600 max-w-xl mx-auto leading-relaxed"
       >
         De l’idée au produit final : design, développement et mise en ligne.
-        Expert en solutions Web et Mobile.
+        Expert en solutions Web.
       </p>
 
       <div
